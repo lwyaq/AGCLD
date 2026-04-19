@@ -1,0 +1,15 @@
+python==3.10.19
+torch==2.5.1+cu121
+torchvision==0.20.1+cu121
+torchaudio==2.5.1+cu121
+torch-geometric==2.6.1
+numpy==1.26.4
+scipy==1.15.3
+pandas==2.3.3
+scikit-learn==1.5.2
+anndata==0.11.0
+scanpy==1.10.3
+h5py==3.15.1
+matplotlib==3.10.8
+tqdm==4.67.1
+rpy2==3.5.16
