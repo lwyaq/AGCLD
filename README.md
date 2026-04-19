@@ -7,7 +7,7 @@ This project provides an implementation of **AGCLD**, a deep learning framework 
 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone <[your-repo-url](https://github.com/lwyaq/AGCLD.git)>
 ```
 
 2. Enter the project directory
